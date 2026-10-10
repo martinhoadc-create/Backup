@@ -2,7 +2,7 @@
   "app": "financas-app-v2",
   "appLabel": "Finanças App v2.0",
   "version": "v2.0",
-  "exportedAt": "2026-10-10T15:23:35.602Z",
+  "exportedAt": "2026-10-10T15:24:52.778Z",
   "source": "github",
   "user": {
     "name": "Usuário",
@@ -17,6 +17,15 @@
       "amount": 720,
       "date": 1791601200000,
       "description": "Pedreiro para Celso 3 dias"
+    },
+    {
+      "id": 2,
+      "type": "income",
+      "category": "service",
+      "status": "pending",
+      "amount": 1125,
+      "date": 1791601200000,
+      "description": "Elétrica e hidraulica para Rodrigo Lira 4 dias emeio"
     }
   ]
 }
