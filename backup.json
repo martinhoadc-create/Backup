@@ -1,0 +1,22 @@
+{
+  "app": "financas-app-v2",
+  "appLabel": "Finanças App v2.0",
+  "version": "v2.0",
+  "exportedAt": "2026-10-10T15:23:35.602Z",
+  "source": "github",
+  "user": {
+    "name": "Usuário",
+    "avatar": null
+  },
+  "transactions": [
+    {
+      "id": 1,
+      "type": "income",
+      "category": "service",
+      "status": "paid",
+      "amount": 720,
+      "date": 1791601200000,
+      "description": "Pedreiro para Celso 3 dias"
+    }
+  ]
+}
