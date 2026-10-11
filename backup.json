@@ -2,7 +2,7 @@
   "app": "financas-app-v2",
   "appLabel": "Finanças App v2.0",
   "version": "v2.0",
-  "exportedAt": "2026-10-11T14:42:34.047Z",
+  "exportedAt": "2026-10-11T14:42:54.770Z",
   "source": "github",
   "user": {
     "name": "Usuário",
@@ -35,6 +35,15 @@
       "amount": 100,
       "date": 1791687600000,
       "description": "Alvaro"
+    },
+    {
+      "id": 4,
+      "type": "income",
+      "category": "service",
+      "status": "paid",
+      "amount": 80,
+      "date": 1791687600000,
+      "description": "Valéria"
     }
   ]
 }
