@@ -2,7 +2,7 @@
   "app": "financas-app-v2",
   "appLabel": "Finanças App v2.0",
   "version": "v2.0",
-  "exportedAt": "2026-10-11T14:42:54.770Z",
+  "exportedAt": "2026-10-13T20:15:24.871Z",
   "source": "github",
   "user": {
     "name": "Usuário",
@@ -23,9 +23,9 @@
       "type": "income",
       "category": "service",
       "status": "pending",
-      "amount": 1125,
+      "amount": 875,
       "date": 1791601200000,
-      "description": "Elétrica e hidraulica para Rodrigo Lira 4 dias emeio"
+      "description": "Elétrica e hidraulica para Rodrigo Lira 4 dias e meio"
     },
     {
       "id": 3,
