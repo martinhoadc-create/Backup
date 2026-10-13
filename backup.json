@@ -2,7 +2,7 @@
   "app": "financas-app-v2",
   "appLabel": "Finanças App v2.0",
   "version": "v2.0",
-  "exportedAt": "2026-10-13T20:15:43.078Z",
+  "exportedAt": "2026-10-13T20:16:42.199Z",
   "source": "github",
   "user": {
     "name": "Usuário",
@@ -44,6 +44,15 @@
       "amount": 80,
       "date": 1791687600000,
       "description": "Valéria"
+    },
+    {
+      "id": 5,
+      "type": "income",
+      "category": "service",
+      "status": "pending",
+      "amount": 500,
+      "date": 1791860400000,
+      "description": "Eletrica 2 dias para Rodrigo Lira"
     }
   ]
 }
